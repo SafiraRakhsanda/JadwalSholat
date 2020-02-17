@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JadwalSholatku</string>
+    <string name="fajr">Fajr :</string>
+    <string name="syuruq">Syuruq :</string>
+    <string name="fajr_time">Fajr</string>
+    <string name="syuruq_time">Syuruq</string>
+    <string name="dzuhur_time">Dzuhur</string>
+    <string name="dzuhur">Dzuhur :</string>
+    <string name="ashar">Ashar :</string>
+    <string name="ashar_time">Ashar</string>
+    <string name="maghrib">Maghrib :</string>
+    <string name="maghrib_time">Maghrib</string>
+    <string name="isya">Isya\' :</string>
+    <string name="isya_time">Isya\'</string>
+    <string name="sepertiga">1/3 Malam :</string>
+    <string name="sepertiga_time">1/3 Malam</string>
+</resources>
